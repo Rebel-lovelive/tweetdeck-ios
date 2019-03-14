@@ -1,5 +1,4 @@
 # tweetdeck-ios
 
-https://raw.githubusercontent.com/Rebel-lovelive/tweetdeck-ios/master/dl.html
-
+https://rebel-lovelive.github.io/yazu-tei/dl.html
 だめです
